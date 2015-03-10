@@ -1,0 +1,15 @@
+{
+  "name": "ReactApp6",
+  "version": "0.0.0",
+  "authors": [
+    "buba20 <buba20@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
